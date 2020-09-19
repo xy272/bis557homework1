@@ -1,4 +1,4 @@
 library(testthat)
-library(bis557)
+library(bis557homework1)
 
-test_check("bis557")
+test_check("bis557homework1")
